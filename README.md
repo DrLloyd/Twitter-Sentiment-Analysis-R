@@ -1,2 +1,1 @@
-# Twitter-Sentiment-Analysis-R
-Twitter Sentiment Analysis R Takes feeds from Twitter into R and the sentiment of the tweets is analysed and classified into positive, negative and neutral tweets.  System Requirements:  Installation of R Steps:  Short Version - The codes are compiled into one file script_running.R  Longer Modular Version- For easier understanding, the above code is modularized and must be learnt in following order- Following are for lexical based twitter analyzer (Tweets to find sentiment about people)  authentication.R tweet_extraction.R Word Database.R cleaning_data.R emoticon.R score_sentiment.R func_on_tweet.R graphs.R Percentage.R level_of_sentiment.R Frequent hastags of user.R Top tweeters and timeline of particular hashtag.R wordcloud.R 
+
